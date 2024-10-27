@@ -1,0 +1,18 @@
+You’ve already shown your skills in developing this mockup in HTML/CSS. Now let’s go even further and develop it using React. 
+
+Additional level: 
+
+Demonstrate your understanding of fundamental React concepts by developing the structural skeleton (template) of a website. Focus on component organization, layout, and basic navigation. Content and styling are not required at this stage.
+
+Requirements:
+
+Component Hierarchy:
+
+    Break down the website into logical, reusable components.
+    Consider a typical structure):
+        App (main container)
+            Header
+            MainContent
+                Sidebar 
+                ContentArea 
+            Footer
