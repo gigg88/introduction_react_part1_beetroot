@@ -2,7 +2,7 @@ import React from 'react';
 
 
 
-function Header() {
+export default function Header() {
   return (
     <header>
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
@@ -34,5 +34,3 @@ function Header() {
   );
 }
 
-
-export default Header;
